@@ -1,0 +1,4 @@
+{
+  "main":"edu.drexel.PublicationVerticle",
+  "includes":"com.jetdrone~yoke~1.0.1"
+}
